@@ -336,7 +336,6 @@ body {
 
 .catalog-card {
     background-color: #fff;
-    border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
     padding: 15px;
@@ -383,7 +382,6 @@ body {
     .catalog-card img {
         width: 120px;
         height: 144px;
-        border: none; /* Убираем рамку */
     }
 
     .catalog-card p {
@@ -399,7 +397,6 @@ body {
     .catalog-card img {
         width: 100px;
         height: 120px;
-        border-radius: 50px;
     }
 
     .catalog-card p {
