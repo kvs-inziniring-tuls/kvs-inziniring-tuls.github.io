@@ -702,6 +702,7 @@ body {
     .catalog-card img {
         width: 120px;
         height: 120px;
+        border: none;
     }
 
     .catalog-card p {
@@ -756,7 +757,7 @@ body {
     .catalog-card img {
         width: 100px;
         height: 100px;
-        border-radius: 50px;
+        border: none;
     }
 
     .contact {
