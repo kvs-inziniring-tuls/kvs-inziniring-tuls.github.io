@@ -343,7 +343,6 @@ body {
 .catalog-card img {
     width: 250px;
     height: 300px;
-    border: 1px solid #e8ecef; /* Рамка для десктопной версии */
     margin: 0 auto 10px;
     display: block;
 }
@@ -392,7 +391,6 @@ body {
         width: 100px;
         height: 120px;
         border-radius: 50px;
-        border: none; /* Убираем рамку */
     }
 
     .catalog-card p {
