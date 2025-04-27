@@ -344,7 +344,7 @@ body {
 .catalog-card img {
     width: 250px;
     height: 300px;
-    border: 1px solid #e8ecef;
+    border: none;
     margin: 0 auto 10px;
     display: block;
 }
